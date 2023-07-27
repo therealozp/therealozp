@@ -1,12 +1,12 @@
 # Hi there 👋, I'm Khang!
 
-(i definitely did not know you can do this on GitHub)
+(i definitely did **not** know you can do this on GitHub)
 
-I am a student passionate about AI and computer stuffs. I've been developing a lot of websites both in the front and back, and now I'm looking inward to building systems and machine learning! 
+I am a student passionate about **AI** and _computer stuffs_. I've been developing a lot of websites both in the front and back, and now I'm looking inward to building systems and machine learning! 
 
 ## 🚀 Technologies and Tools
 
-Here are some of the technologies and tools I am familiar with:
+I've been tinkering with:
 
 - Programming Languages: Python, C++ (and friends), JavaScript, SQL
 - Frameworks and Libraries: React, Next, Express, PyTorch (and friends)
