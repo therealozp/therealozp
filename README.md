@@ -2,16 +2,16 @@
 
 (i definitely did **not** know you can do this on GitHub)
 
-I love **AI** and all things _computer stuffs_. I've been developing a lot of websites both on the front- and back-end, and now I'm looking further to building systems and machine learning! 
+I love **AI** and all things _computer stuffs_. I've been developing a lot of websites both on the front- and back-end, and now I'm looking further to building systems, OSes, and machine learning! 
 
 ## 🚀 Technologies and Tools
 
 I've been tinkering with:
 
-- Programming Languages: Python, C++ (and friends), JavaScript, SQL
+- Programming Languages: Python, C (and friends), JavaScript, SQL
 - Frameworks and Libraries: React, Next, Express, PyTorch (and friends)
-- Tools and Platforms: VSCode, GNU/Linux (and friends)
-- Version Control: I only have one lover and it's `git`
+- Tools and Platforms: VSCode, GNU/Linux (and friends), AWS, and DigitalOcean (and friends)
+- Version Control: I only have one lover and it's `git` (but I am willing to fumble wiith Atlassian and BitBucket)
 
 ## 👯 Looking to Collaborate
 
