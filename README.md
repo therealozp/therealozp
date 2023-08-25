@@ -13,11 +13,11 @@ I've been tinkering with:
 - Tools and Platforms: VSCode, GNU/Linux (and friends), AWS, and DigitalOcean (and friends)
 - Version Control: I only have one lover and it's `git` (but I am willing to fumble wiith Atlassian and BitBucket)
 
-## 👯 Looking to Collaborate
+## 👯 Looking to Contribute
 
-I'm always open to collaborating! If you're working on something cool, I'd love to help so feel free to reach out!
+I'm always open to collaborating and contributing to open source projects (because I am an avid user myself)! If you're working on something cool, I'd love to help so feel free to reach out!
 
-## 📫 Let's connect!
+## 📫 Connect with me!
 
 - GitHub: [therealozp](https://github.com/therealozp)
 - LinkedIn: [Khang Le](https://www.linkedin.com/in/anhkhang-le/)
