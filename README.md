@@ -20,6 +20,7 @@ I'm always open to collaborating and contributing to open source projects (becau
 ## 📫 Connect with me!
 
 - GitHub: [therealozp](https://github.com/therealozp)
+- Portfolio: [Here!](https://khang-portfolio.vercel.app)
 - LinkedIn: [Khang Le](https://www.linkedin.com/in/anhkhang-le/)
 - Email: anhkhang.le0910@gmail.com
 
