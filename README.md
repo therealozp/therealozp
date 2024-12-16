@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Khang!
 
-(i definitely did **not** know you can do this on GitHub)
+(my boss calls me Bento)
 
 I love **AI** and all things _computer stuffs_. I've been developing a lot of websites both on the front- and back-end, and now I'm looking further to building systems, OSes, and machine learning! 
 
