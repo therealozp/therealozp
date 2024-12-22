@@ -1,26 +1,22 @@
-# Hi there 👋, I'm Khang!
+# hello there 👋
 
 (my boss calls me Bento)
 
-I love **AI** and all things _computer stuffs_. I've been developing a lot of websites both on the front- and back-end, and now I'm looking further to building systems, OSes, and machine learning! 
+i build stuff for fun. all of my projects are built in the spirit of ✨ fun ✨, and to learn more stuff to build more projects.
 
-## 🚀 Technologies and Tools
+**Form follows function.**
+
+## 🔧 tools i use
 
 I've been tinkering with:
 
-- Programming Languages: Python, C (and friends), JavaScript, SQL
+- Programming Languages: Python, C and friends, JS and friends, Golang, and (begrudgingly learning) Rust.
 - Frameworks and Libraries: React, Next, Express, PyTorch (and friends)
-- Tools and Platforms: VSCode, GNU/Linux (and friends), AWS, and DigitalOcean (and friends)
-- Version Control: I only have one lover and it's `git` (but I am willing to fumble wiith Atlassian and BitBucket)
+- Version Control: I only have one lover and it's `git` (but I am willing to fumble with Atlassian and BitBucket)
 
-## 👯 Looking to Contribute
+## 📫 connect with me!
 
-I'm always open to collaborating and contributing to open source projects (because I am an avid user myself)! If you're working on something cool, I'd love to help so feel free to reach out!
-
-## 📫 Connect with me!
-
-- GitHub: [therealozp](https://github.com/therealozp)
-- Portfolio: [Here!](https://khang-portfolio.vercel.app)
+- Portfolio: [Here!](https://khangis.dev) (major overhaul done over the past couple months)
 - LinkedIn: [Khang Le](https://www.linkedin.com/in/anhkhang-le/)
 - Email: anhkhang.le0910@gmail.com
 
