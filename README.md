@@ -4,21 +4,21 @@
 
 i build stuff for fun. all of my projects are built in the spirit of ✨ fun ✨, and to learn more stuff to build more projects.
 
-**Form follows function.**
+**form follows function.**
 
 ## 🔧 tools i use
 
-I've been tinkering with:
+i've been tinkering with:
 
-- Programming Languages: Python, C and friends, JS and friends, Golang, and (begrudgingly learning) Rust.
-- Frameworks and Libraries: React, Next, Express, PyTorch (and friends)
-- Version Control: I only have one lover and it's `git` (but I am willing to fumble with Atlassian and BitBucket)
+- Python, C and friends, JS and friends, Golang, and (begrudgingly learning) Rust.
+- React (and Svelte and Angular), Next, Express,
+- PyTorch, TF, Keras
 
 ## 📫 connect with me!
 
-- Portfolio: [Here!](https://khangis.dev) (major overhaul done over the past couple months)
+- portfolio: [Here!](https://khangis.dev) (major overhaul done over the past couple months)
 - LinkedIn: [Khang Le](https://www.linkedin.com/in/anhkhang-le/)
-- Email: anhkhang.le0910@gmail.com
+- email: anhkhang.le0910@gmail.com
 
 
 <!--
