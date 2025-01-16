@@ -10,7 +10,7 @@ i build stuff for fun. all of my projects are built in the spirit of ✨ fun ✨
 
 i've been tinkering with:
 
-- Python, C and friends, JS and friends, Golang, and (begrudgingly learning) Rust.
+- Python, C and friends, JS and friends, Golang, and Rust.
 - React (and Svelte and Angular), Next, Express,
 - PyTorch, TF, Keras
 
